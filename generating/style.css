@@ -1,0 +1,16 @@
+#nav{
+    font-family: Helvetica;
+    background-color: black;
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    font-family: Helvetica;
+}
+
+#profile{
+    background-color: rgb(194, 207, 207);
+    padding: 10px;
+}
